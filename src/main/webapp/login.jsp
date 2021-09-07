@@ -2,7 +2,7 @@
 <html lang="it">
 
 	<head>
-		<meta charset="ISO-8859-1">
+		<meta charset="utf-8">
 		<title>Accedi</title>
 	
 		<!-- Common imports in pages -->
