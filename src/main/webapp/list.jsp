@@ -63,7 +63,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr>
 				                     <tr >
@@ -75,7 +75,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr>
 				                     <tr >
@@ -87,7 +87,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr>
 				                     <tr >
@@ -99,7 +99,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr>
 				                    
@@ -112,7 +112,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -123,7 +123,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -134,7 +134,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -145,7 +145,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -156,7 +156,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -167,7 +167,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -178,7 +178,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -189,7 +189,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr> <tr >
 				                        <td>Mario</td>
@@ -200,7 +200,7 @@
 				                        <td>
 											<a class="btn  btn-sm btn-outline-secondary" href="show.jsp">Visualizza</a>
 											<a class="btn  btn-sm btn-outline-primary ml-2 mr-2" href="edit.jsp">Edit</a>
-											<button type="button" class="btn btn-outline-danger btn-sm">Delete</button>
+											<button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
 										</td>
 				                    </tr>
 				                    
@@ -222,5 +222,26 @@
 		
 		<!-- Footer -->
 		<jsp:include page="./footer.jsp" />
+		
+		<!-- Modal conferma delete -->
+		<div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <h5 class="modal-title" id="deleteModalLabel">Conferma Operazione</h5>
+		        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+		      </div>
+		      <div class="modal-body">
+		        Continuare con l'operazione?
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annulla</button>
+		        <button type="button" class="btn btn-primary">Continua</button>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+		<!-- End Modal conferma delete -->
+		
 	</body>
 </html>
